@@ -95,7 +95,4 @@ fun main() {
     println(kuponKodu)
     println(faturaAdresi)
 
-
-
-
 }
